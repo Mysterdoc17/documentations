@@ -77,4 +77,4 @@ class nom_de_la_classe {
 ## Sources :
 - [Documentation PHP](https://www.php.net/docs.php)
 - [Cours de PHPFacile](http://www.lephpfacile.com/cours/)
-- [cours W3School]()
+- [cours W3School](https://www.w3schools.com/php/)
