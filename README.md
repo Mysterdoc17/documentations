@@ -3,7 +3,7 @@
 ## 12062022-2 :
 
 - Ajout de la documentation du langage SQL
-- Ajout de la documentation du langage SQL
+- Ajout de la documentation du langage Python
 - Corrections mineures sur la documentation du langage PHP
 
 ## 12062022-1 :
